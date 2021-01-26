@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MorrowSolutions.Web.EFCore.Example/MorrowSolutions.Web.EFCore.Example/bin/Debug/netcoreapp3.1
+/MorrowSolutions.Web.EFCore.Example/.vs/MorrowSolutions.Web.EFCore.Example/v16
+/MorrowSolutions.Web.EFCore.Example/MorrowSolutions.Web.EFCore.Example/obj
